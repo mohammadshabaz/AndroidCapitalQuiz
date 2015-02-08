@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Capital Quiz</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_types">TypesActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_levels">Choose a Level</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="time_limit">40</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+    <string name="ad_unit_id">a15308e2169fa4c</string>
+    <string name="RAA">رضي الله عنها</string>
+    <string name="RA">رضي الله عنه</string>
+    <string name="SAW">صلى الله عليه وسلم</string>
+    <string name="AS">عليه السلام</string>
+    <string name="chartboost_app_id">53092d9d2d42da0e6df2a8bb</string>
+    <string name="chartboost_app_signature">0639c9ce365253f7795c59ea0e58030517291bac</string>
+</resources>
